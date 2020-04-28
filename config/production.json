@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb+srv://itsme:123@cluster0-cssim.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken",
+    "githubClientId": "4be144757dc727c1828c",
+    "githubSecret": "6ad88c6afa5c099bfbc9eb5688f0b8192bb531ed"
+}
